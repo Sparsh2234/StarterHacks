@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.android_02"
+    package="com.example.health_app"
     android:targetSandboxVersion="2"
     android:versionCode="1"
     android:versionName="1.0" >
@@ -18,7 +18,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.android_02.MainActivity" >
+        <activity android:name="com.example.health_app.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
