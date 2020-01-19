@@ -1,0 +1,5 @@
+id,age,workclass,Fnwgt,education,education-num,marital-status,occupation,relationship,ethnic group,gender,capital gain,capital  loss,hours,native country
+1,12,1,1,1,1,2,1,1,1,1,1,1,1,1
+2,5,6,6,6,6,6,6,6,6,6,6,6,6,6
+3,32,3,23,23,3,3,23,2,32,32,2,32,3,32
+5,3,23,23,32,3,32,3,23,23,23,23,32,3,3
